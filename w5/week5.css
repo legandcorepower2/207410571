@@ -1,0 +1,21 @@
+.img3{
+    width: 29%;
+    margin: 1.66%
+}
+.img4{
+    width: 20%   ;
+    margin: 1.66%  ;  
+}
+.img5{
+    width: 17%  ;
+    margin  1.66%    ;
+}
+p{
+    text-transform: uppercase;
+    font-size: 30px;
+    margin:2%;
+    font-weight: 800;
+    padding-bottom: 15px;
+    border-bottom: 2px solid #f1f1f1;
+    width: 21%
+}
